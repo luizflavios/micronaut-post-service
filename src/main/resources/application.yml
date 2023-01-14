@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronautPostService
+netty:
+  default:
+    allocator:
+      max-order: 3
